@@ -156,4 +156,4 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-algorithm/src/doit/answer/**
+algorithm/src/doit/explanation/**
